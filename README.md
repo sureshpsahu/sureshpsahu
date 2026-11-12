@@ -1,4 +1,4 @@
-### Hi, I'm Suresh Sahu 👋
+### Hello, I'm Suresh Sahu 👋
 **Principal Technical Program Manager | Cloud Platforms, AI & Developer Ecosystems**
 
 I bring 27 years of experience leading large-scale cloud platforms, API integrations, and cross-functional engineering programs from planning through sustained operation (Guidewire, Meta Reality Labs, Apple). 
