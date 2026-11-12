@@ -10,4 +10,4 @@ Here I build **MCP-enabled AI web-grounding agents** and **Developer Experience 
 * **[MCP Web-Grounding & Citation Agent](https://github.com/sureshpsahu/mcp-web-grounding-agent):** Claude and Python-based research agent using MCP for enterprise grounding and citations.
 * **[Multi-Agent Deep Research Pipeline](https://github.com//sureshpsahu/multi-agent-deep-research-pipeline):** Multi-agent orchestrator with search workers, passage filtering, and quota recovery.
 
-📫 **Linkedin Connect:** [Suresh Sahu](https://www.linkedin.com/in/sureshpsahu/) | **Email:** spsahu@gmail.com
+📫 **Linkedin Connect:** [Suresh Sahu](https://www.linkedin.com/in/sureshpsahu/)  | **  Email:** spsahu@gmail.com
